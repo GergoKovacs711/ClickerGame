@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laller clicker</string>
+    <string name="hello_world_text">Hello Laci!</string>
+    <string name="result_text">Result:</string>
+    <string name="passive_upgrade_button_text">Passive upgrade</string>
+    <string name="active_upgrade_button_text">Active upgrade</string>
+</resources>
